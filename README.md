@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/retratos-de-un-invierno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Retratos de un invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/retratos-de-un-invierno/) |
+| **Get License** | [Official Music Licensing for Retratos de un invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/retratos-de-un-invierno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9f3e47d59b66c851438a6e2a042f07099562a30c898a30f0529cb09b70098d36` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

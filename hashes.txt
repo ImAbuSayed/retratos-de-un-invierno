@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Retratos de un invierno
+
+This log tracks the cryptographic history and versioning for the song **Retratos de un invierno** (retratos-de-un-invierno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T18:45:45.034813 | `v1` | `9f3e47d59b66c851438a6e2a042f07099562a30c898a30f0529cb09b70098d36` | `89d05f5307e8b782595758651289edf13fc630e4bee5aede1c997d2b5aace645` | `2026-06-13_retratos-de-un-invierno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
