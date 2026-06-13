@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/retratos-de-un-invierno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Retratos de un invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/retratos-de-un-invierno/) |
+| **Get License** | [Get a Licensing Quote for Retratos de un invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/retratos-de-un-invierno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, esta noche la luna nos llama
+> Rompiendo el hielo, encendiendo la llama
+> De Madrid al cielo, tú eres la que manda
+> My late-night addiction, la que mi cuerpo aclama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
